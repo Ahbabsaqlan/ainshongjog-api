@@ -10,4 +10,4 @@ import { AdminLawyersService } from './lawyers.service';
   controllers: [AdminLawyersController],
   providers: [AdminLawyersService],
 })
-export class AdminLawyersModule {}
+export class AdminLawyersModule {} 
